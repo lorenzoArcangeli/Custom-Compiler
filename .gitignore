@@ -4,9 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-Gplex.exe
-Gppg.exe
-QUT.ShiftReduceParser.dll
+*.dll
 
 # User-specific files
 *.rsuser
